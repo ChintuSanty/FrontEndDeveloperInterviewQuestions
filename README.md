@@ -3,12 +3,12 @@
 
 ## HTML& HTML5 Interview Questions:
 
-1. What is HTML?
+### 1. What is HTML?
 <p>
     HTML stands for Hypertext Markup Language. It is the standard markup language used for creating and designing web pages and applications. HTML uses a combination of tags, attributes, and elements to structure the content and define its meaning. The primary purpose of HTML is to create a structure for content that can be displayed in web browsers. This structure includes text, images, videos, links, and other types of multimedia content. HTML is essential for creating web pages and is widely used by web developers and designers around the world.HTML stands for Hypertext Markup Language. It is the standard markup language used for creating and designing web pages and applications. HTML uses a combination of tags, attributes, and elements to structure the content and define its meaning. The primary purpose of HTML is to create a structure for content that can be displayed in web browsers. This structure includes text, images, videos, links, and other types of multimedia content. HTML is essential for creating web pages and is widely used by web developers and designers around the world.
 </p>
 
-2. What is the difference between HTML & HTML 5 ?
+### 2. What is the difference between HTML & HTML 5 ?
 <p>
     HTML is the original markup language used for creating and designing web pages, while HTML5 is the latest version of HTML. Here are some of the key differences between HTML and HTML5:
 
