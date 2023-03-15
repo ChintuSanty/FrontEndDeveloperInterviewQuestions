@@ -1,11 +1,11 @@
 # Front End Developer Interview Questions
 
-### [HTML&HTML5 Intervoew Questions](#html-html5-interview-questions)
+# [HTML&HTML5 Interview Questions](#html-html5-interview-questions)
 
-## HTML & HTML5 Interview Questions{#html-html5-interview-questions}
+# HTML & HTML5 Interview Questions{#html-html5-interview-questions}
 
-# [what is HTML?](#what-is-html)
-# [What is the difference between HTML&HTML5?](#HTML-HTML5)
+## [what is HTML?](#what-is-html)
+## [What is the difference between HTML&HTML5?](#HTML-HTML5)
 # What is HTML?{#what-is-html}
 <p>
     HTML stands for Hypertext Markup Language. It is the standard markup language used for creating and designing web pages and applications. HTML uses a combination of tags, attributes, and elements to structure the content and define its meaning. The primary purpose of HTML is to create a structure for content that can be displayed in web browsers. This structure includes text, images, videos, links, and other types of multimedia content. HTML is essential for creating web pages and is widely used by web developers and designers around the world.
