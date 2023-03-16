@@ -46,3 +46,23 @@
 6. ### Scemantic In HTML:
 
     Semantic HTML is a way of writing HTML that focuses on the meaning and purpose of the content, rather than just its appearance. Semantic HTML uses specific tags that describe the type of content they contain, such as `<header>`, `<nav>`, `<article>`, `<section>`, `<aside>`, and `<footer>`. This makes the content more accessible to users with disabilities, and also helps search engines and other web applications to understand and process the content more accurately.
+
+7. ### Types of lists in HTML:
+
+    There are three types of lists in HTML:
+
+    1. Unordered lists: created using the `<ul>` tag, and each list item is marked with the `<li>` tag. They display a bullet or other marker next to each item.
+    2. Ordered lists: created using the `<ol>` tag, and each list item is marked with the `<li>` tag. They display a number or other marker next to each item.
+    3. Definition lists: created using the <dl> tag, and each item consists of a term (defined using the `<dt>` tag) and its definition (defined using the `<dd>` tag).
+
+8. ### `alt` attribute in HTML:
+    The alt attribute in HTML is used to provide alternative text for images. This text is displayed in place of the image if it cannot be loaded, or if the user is using a screen reader to access the content. The alt text should describe the content of the image in a concise and accurate manner.
+
+9. ### `id` and `class` attribute in HTML:
+    The id attribute in HTML is used to uniquely identify an element on the page, and can be used to link to that element from other parts of the page. The id value must be unique within the document.
+
+    The class attribute in HTML is used to group elements that share a common style or purpose. Multiple elements can share the same class name, and the class name can be used to apply styles or scripting to all of those elements at once.
+
+10. ### `href` attribute purpose:
+    The href attribute in HTML is used to specify the destination of a hyperlink, which can be a URL, an email address, or an anchor link within the same document. The href attribute is used in conjunction with the `<a>` tag to create hyperlinks. When the user clicks on a hyperlink, the browser navigates to the URL specified in the href attribute.
+
