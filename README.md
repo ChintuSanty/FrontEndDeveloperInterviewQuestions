@@ -66,6 +66,31 @@
 10. ### `href` attribute purpose:
     The href attribute in HTML is used to specify the destination of a hyperlink, which can be a URL, an email address, or an anchor link within the same document. The href attribute is used in conjunction with the `<a>` tag to create hyperlinks. When the user clicks on a hyperlink, the browser navigates to the URL specified in the href attribute.
 
+11. ### What are the basci block of HTML:
+    1.<!DOCTYPE> Declaration: This is the very first element at the beginning of an HTML document and specifies the document type and version of HTML being used. For HTML5, the declaration is simply <!DOCTYPE html>.
+
+    2.<html> Element: The <html> element serves as the root element of the HTML document. It wraps all the other elements and indicates that the content inside is written in HTML.
+
+    3.<head> Element: The <head> element contains metadata about the document, such as the page title, character encoding, links to external resources (stylesheets, scripts, etc.), and other information that's not directly displayed on the web page.
+
+    4.<title> Element: The <title> element is placed inside the <head> section and defines the title of the web page. It appears in the browser's title bar or tab and is crucial for search engine optimization (SEO).
+
+    5.<body> Element: The <body> element contains the visible content of the web page, including text, images, links, forms, and other interactive elements. Everything displayed on the web page is within the <body> element.
+
+    6.<h1>, <h2>, <h3>, <h4>, <h5>, <h6> Elements: These elements are used to define headings of different levels on the web page. <h1> is the highest level (main heading), and <h6> is the lowest level (subheading).
+
+    7.<p> Element: The <p> element represents a paragraph of text. It is used to structure and group text content into paragraphs.
+
+    8.<a> Element: The <a> element creates hyperlinks or anchor links that allow users to navigate to other web pages or resources. It is commonly used to link to other pages, files, or sections within the same page.
+
+    9.<img> Element: The <img> element is used to embed images on the web page. It requires a src attribute that specifies the image file's URL.
+
+    10.<ul> and <li> Elements: These elements are used to create unordered lists. The <ul> element represents the list container, and each list item is defined by the <li> element.
+
+    11.<ol> and <li> Elements: These elements are used to create ordered lists. The <ol> element represents the ordered list container, and each list item is defined by the <li> element.
+
+    12.<div> Element: The <div> element is a generic container used to group content and apply styles or layout to sections of the web page.
+
 ## CSS Interview Questions:
 
 1. ### What is CSS?
